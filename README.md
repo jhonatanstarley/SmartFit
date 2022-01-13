@@ -1,1 +1,1 @@
-# SmartFit
+# Smart Fit
